@@ -18,8 +18,7 @@ body{
     font-family: "Roboto", sans-serif;
   }
   
-  h1,
-  h2 {
+  h1 {
     font-family: "Montserrat", sans-serif;
   }
 
@@ -37,4 +36,10 @@ body{
 ul{
     list-style: none;
     padding:0%;
+    color:white;
+}
+
+h2{
+    color: #007bff;
+    font-family: "Montserrat", sans-serif;
 }
