@@ -22,3 +22,19 @@ body{
   h2 {
     font-family: "Montserrat", sans-serif;
   }
+
+  
+  #landing,#gallery{
+    height: 80vh;
+    /* center the content vertically using flexbox */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+ul{
+    list-style: none;
+    padding:0%;
+}
